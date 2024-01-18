@@ -428,6 +428,26 @@ h6 {
   }
 }
 
+/* M2h customize */
+.card {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: 0.3s;
+  background-color: #d4d1d153;
+  color: #988910;
+  justify-content: center;
+  /* margin-bottom: 30px; */
+  font-size: 14px;
+  font-weight: 400;
+  /* text-transform: uppercase; */
+}
+
+#hero .card img {
+  margin: 15px auto;
+  display: block;
+  width: 120px;
+  border: 8px solid #2c2f3f;
+}
+
 /*--------------------------------------------------------------
 # Sections General
 --------------------------------------------------------------*/
