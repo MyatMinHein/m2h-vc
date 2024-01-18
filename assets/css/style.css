@@ -438,6 +438,23 @@ h6 {
   /* margin-bottom: 30px; */
   font-size: 14px;
   font-weight: 400;
+  /* text-align: left; */
+  /* text-transform: uppercase; */
+}
+
+.card-text {
+  /* box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: 0.3s;
+  background-color: #d4d1d153; */
+  border: 0;
+  padding-left: 420px;
+  /* transition: 0.3s; */
+  color: #988910;
+  justify-content: center;
+  /* margin-bottom: 30px; */
+  font-size: 14px;
+  font-weight: 400;
+  text-align: center;
   /* text-transform: uppercase; */
 }
 
@@ -446,6 +463,32 @@ h6 {
   display: block;
   width: 120px;
   border: 8px solid #2c2f3f;
+}
+
+.span {
+  margin: 15px auto;
+  /* display: block; */
+  width: 120px;
+}
+
+.span title {
+  margin: 15px auto;
+  display: block;
+  width: 120px;
+}
+
+.table {
+  border-collapse: collapse;
+  border: none;
+  background-color: transparent;
+  align-items: center;
+  padding-left: 200px;
+}
+
+.table th, td {
+  border: none;
+  padding-right: 20px;
+  padding-top: 10px;
 }
 
 /*--------------------------------------------------------------
