@@ -16,11 +16,11 @@ body {
 
 a {
   text-decoration: none;
-  color: #7cc576;
+  color: #beab17;
 }
 
 a:hover {
-  color: #9ed49a;
+  color: #dfdc1f;
   text-decoration: none;
 }
 
@@ -470,7 +470,6 @@ h6 {
   margin: 15px auto;
   /* display: block; */
   width: 120px;
-  text-align: center;
 }
 
 .span title {
